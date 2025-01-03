@@ -27,15 +27,17 @@ export function Services() {
             return (
               <div
                 key={index}
-                className="bg-[#1B3E5C] p-10 rounded-xl shadow-[0_4px_20px_rgba(0,0,0,0.1)] text-center"
+                className="bg-[#1B3E5C] p-10 rounded-xl shadow-[0_4px_20px_rgba(0,0,0,0.1)] text-center flex flex-col h-full"
               >
-                <div className="bg-[#C5A17C] w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
-                  <Icon className="w-8 h-8 text-[#1B3E5C]" />
+                <div className="h-[140px] flex flex-col items-center">
+                  <div className="bg-[#C5A17C] w-16 h-16 rounded-full flex items-center justify-center mb-6">
+                    <Icon className="w-8 h-8 text-[#1B3E5C]" />
+                  </div>
+                  <h3 className="text-2xl font-serif font-bold text-[#C5A17C]">
+                    {service.title}
+                  </h3>
                 </div>
-                <h3 className="text-2xl font-serif font-bold mb-6 text-[#C5A17C]">
-                  {service.title}
-                </h3>
-                <p className="text-lg text-white/90 leading-relaxed">
+                <p className="text-lg text-white/90 leading-relaxed mt-6">
                   {service.description}
                 </p>
               </div>

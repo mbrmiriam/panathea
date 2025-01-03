@@ -7,7 +7,7 @@ export function About() {
   const { t } = useLanguage()
 
   return (
-    <section className="py-32 px-4 bg-[#1B3E5C]">
+    <section id="about" className="py-32 px-4 bg-[#1B3E5C]">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-5xl font-serif text-center mb-24 text-[#C5A17C]">
           {t.about.title}

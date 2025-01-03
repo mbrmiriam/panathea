@@ -12,28 +12,28 @@ export const en = {
   services: {
     title: "Exclusive Services",
     service1: {
-      title: "24/7 Nursing Care",
-      description: "Immediate access to your Concierge or health reference person at any time. Our team is available 24 hours to attend to your needs with maximum priority and discretion."
+      title: "VIP Priority Access to Top Specialists and Hospitals",
+      description: "We ensure you receive the best check-up, diagnosis, and treatment from the finest specialists for your specific case. No waiting times, with maximum comfort in the most prestigious medical centers."
     },
     service2: {
-      title: "Specialist Coordination",
-      description: "Exclusive network with the best specialists in the most exclusive hospitals."
+      title: "24/7 Nursing Care",
+      description: "Immediate access to your concierge or health reference person at any time. Our team is available 24 hours to attend to your needs with maximum priority and discretion."
     },
     service3: {
-      title: "Personalized Wellness",
-      description: "Wellness programs specifically designed for your lifestyle. From nutrition and personal training to aesthetic medicine and beauty. We create a holistic plan to optimize your health."
+      title: "Management and Specialist Coordination",
+      description: "We comprehensively coordinate and manage your access to the best specialists and reference hospitals, organizing appointments, complex clinical cases, transportation, and medical tourism with priority and exclusivity, in the shortest possible time to maximize your comfort, offering greater efficiency and VIP access."
     },
     service4: {
-      title: "Management and Specialist Coordination",
-      description: "We comprehensively coordinate and manage your access to the best specialists and reference hospitals, organizing appointments, complex clinical cases, transportation, and medical tourism with priority and exclusivity, always adapting to your needs"
+      title: "Advisory Services",
+      description: "We analyze and assess your case in maximum detail, guiding you precisely through the complex healthcare system. We offer you the most suitable and personalized options according to your specific needs and circumstances."
     },
     service5: {
-      title: "Advisory",
-      description: "Global access to specialists and medical services. We analyze your case and find the best specialists for you and your family. We guide you through the complex healthcare system. We review your case personally."
+      title: "Patient Navigation",
+      description: "In-person or virtual support to guide and help you navigate the healthcare system, answer your questions, and accompany you every step of the way."
     },
     service6: {
-      title: "Patient Navigation",
-      description: "In-person or virtual support to guide and help you navigate the healthcare system, at all times."
+      title: "Personalized Wellness and Longevity",
+      description: "Wellness programs specifically designed for you and your lifestyle. From nutrition and personal training to aesthetic medicine and beauty. We create a holistic plan to optimize your health."
     }
   },
   about: {

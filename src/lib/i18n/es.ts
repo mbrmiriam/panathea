@@ -12,28 +12,28 @@ export const es = {
   services: {
     title: "Servicios Exclusivos",
     service1: {
-      title: "Atención de Enfermería 24/7",
-      description: "Acceso inmediato a su Concierge o persona de referencia en salud en cualquier momento. Nuestro equipo está disponible las 24 horas para atender sus necesidades con máxima prioridad y discreción."
+      title: "Acceso Prioritario VIP a los Mejores Especialistas y Hospitales",
+      description: "Nos aseguramos de que reciba el mejor chequeo, diagnóstico y tratamiento de la mano de los mejores especialistas para su caso en concreto. Sin esperas, con el máximo confort en los centros médicos más prestigiosos."
     },
     service2: {
-      title: "Coordinación de Especialistas",
-      description: "Red exclusiva con los mejores especialistas en los hospitales más exclusivos."
+      title: "Atención de Enfermería 24/7",
+      description: "Acceso inmediato a su concierge o persona de referencia en salud en cualquier momento. Nuestro equipo está disponible las 24 horas para atender sus necesidades con máxima prioridad y discreción."
     },
     service3: {
-      title: "Bienestar Personalizado",
-      description: "Programas de bienestar específicamente diseñados para su estilo de vida. Desde nutrición y entrenamiento personal hasta medicina estética y belleza. Creamos un plan holístico para optimizar su salud."
+      title: "Gestión y Coordinación de Especialistas",
+      description: "Coordinamos y gestionamos de manera integral su acceso a los mejores especialistas y hospitales de referencia, organizando citas, casos clínicos complejos, transporte y turismo sanitario con prioridad y exclusividad, en el menor tiempo posible para maximizar su comodidad, ofreciéndole mayor eficiencia y acceso VIP."
     },
     service4: {
-      title: "Gestión y Coordinación de Especialistas",
-      description: "Coordinamos y gestionamos de manera integral su acceso a los mejores especialistas y hospitales de referencia, organizando citas, casos clínicos complejos, transporte y turismo sanitario con prioridad y exclusividad, siempre adaptándonos a sus necesidades"
+      title: "Asesoramiento",
+      description: "Analizamos y valoramos su caso con el máximo detalle, guiándole con precisión a través del complejo sistema sanitario. Le ofrecemos las opciones más adecuadas y personalizadas según sus necesidades y circunstancias específicas."
     },
     service5: {
-      title: "Asesoría",
-      description: "Acceso global a especialistas y servicios médicos. Analizamos su caso y encontramos los mejores especialistas para usted y su familia. Le guiamos a través del complejo sistema sanitario. Revisamos su caso personalmente."
+      title: "Acompañamiento",
+      description: "Apoyo presencial o virtual para guiarle y ayudarle a navegar por el sistema sanitario, resolverle dudas y acompañarle en cada paso del proceso."
     },
     service6: {
-      title: "Acompañamiento",
-      description: "Apoyo presencial o virtual para guiarle y ayudarle a navegar por el sistema sanitario, en todo momento."
+      title: "Bienestar y Longevity Personalizados",
+      description: "Programas de bienestar específicamente diseñados para usted y su estilo de vida. Desde nutrición y entrenamiento personal hasta medicina estética y belleza. Creamos un plan holístico para optimizar su salud."
     }
   },
   about: {

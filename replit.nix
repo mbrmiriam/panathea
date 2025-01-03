@@ -1,9 +1,7 @@
-
 { pkgs }: {
+  description = "A basic repl.it environment";
   deps = [
-    pkgs.nodejs-20_x
+    pkgs.nodejs-18_x
     pkgs.nodePackages.typescript-language-server
-    pkgs.yarn
-    pkgs.replitPackages.jest
   ];
 }
