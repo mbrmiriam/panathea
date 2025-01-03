@@ -32,7 +32,7 @@ export function Services() {
                 <div className="bg-[#C5A17C] w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                   <Icon className="w-8 h-8 text-[#1B3E5C]" />
                 </div>
-                <h3 className="text-2xl font-serif mb-6 text-[#C5A17C]">
+                <h3 className="text-2xl font-serif font-bold mb-6 text-[#C5A17C]">
                   {service.title}
                 </h3>
                 <p className="text-lg text-white/90 leading-relaxed">
